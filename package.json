@@ -1,0 +1,19 @@
+{
+  "name": "custom_home_page",
+  "version": "1.0.0",
+  "description": "My personal custom home page",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/maxrru/custom_home_page.git"
+  },
+  "author": "Max Ungar",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/maxrru/custom_home_page/issues"
+  },
+  "homepage": "https://github.com/maxrru/custom_home_page#readme"
+}
