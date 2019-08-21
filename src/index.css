@@ -1,0 +1,22 @@
+table {
+}
+tr {
+  padding-bottom: 5px;
+}
+td {
+  padding: 5px 10px;
+}
+.firstRow {
+  background-color: white;
+}
+.secondRow {
+  background-color: #f1f1f1;
+}
+
+h1 { 
+color: #777;
+}
+
+body {
+  background-color: #d1d1d1;
+}
